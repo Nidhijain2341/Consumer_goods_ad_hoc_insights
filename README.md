@@ -12,7 +12,7 @@ To address this, Tony Sharma (Director of Data Analytics) decided to expand the 
 🎯 Objective
 As a candidate, my task was to:
 
-> Analyze 10 ad-hoc business questions provided in a PDF format.
-> Write SQL queries to answer those questions using the given database.
-> Use Power BI to visualize the insights in a dashboard suitable for executive-level decision-making.
-> Create a presentation (with optional audio/video) to communicate the findings effectively.
+1. Analyze 10 ad-hoc business questions provided in a PDF format.
+2. Write SQL queries to answer those questions using the given database.
+3. Use Power BI to visualize the insights in a dashboard suitable for executive-level decision-making.
+4. Create a presentation (with optional audio/video) to communicate the findings effectively.
